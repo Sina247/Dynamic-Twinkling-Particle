@@ -1,6 +1,6 @@
-# ✨ Dynamic Twinkling Particle System
+# ✨ Dynamic Twinkling Particle
 
-A beautiful and lightweight **Dynamic Twinkling Particle System** built with HTML, CSS and JavaScript. Simulates twinkling stars or magical dust with smooth animations perfect for backgrounds, hero sections and immersive visual effects.
+A beautiful lightweight **Dynamic Twinkling Particle System** built with HTML, CSS and JavaScript. Simulates twinkling stars or magical dust with smooth animations perfect for backgrounds, hero sections and immersive visual effects.
 
 ---
 
